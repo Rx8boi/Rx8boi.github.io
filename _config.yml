@@ -1,11 +1,11 @@
 # Site settings
-author: Charles Butler
-title: 
+author: Charles Butler Jr
+title: My Flatiron Journey
 header-img: img/home-bg.png
 email: cdbutle@outlook.com
-copyright_name: Charles Butler
+copyright_name: Charles Butler Jr
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Bringing me back to where I belong
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Rx8boi
