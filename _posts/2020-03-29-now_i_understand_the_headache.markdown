@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "NOW I understand the headache"
-date:       2020-03-30 00:59:25 +0000
+date:       2020-03-29 20:59:25 -0400
 permalink:  now_i_understand_the_headache
 ---
 
