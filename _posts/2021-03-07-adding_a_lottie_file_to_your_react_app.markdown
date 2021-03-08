@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adding a lottie file to your React App"
-date:       2021-03-08 03:42:31 +0000
+date:       2021-03-07 22:42:31 -0500
 permalink:  adding_a_lottie_file_to_your_react_app
 ---
 
